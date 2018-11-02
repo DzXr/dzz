@@ -1,2 +1,5 @@
-# dzz
-text
+# 大志的GitHub
+
+welcome！
+pull and push
+
